@@ -13,3 +13,4 @@ outputs/final_holdout_*.json
 *.pt
 *.pth
 .DS_Store
+!data/README.md
