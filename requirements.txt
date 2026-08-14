@@ -10,3 +10,4 @@ PyYAML>=6.0
 gradio>=5.0
 tqdm>=4.66
 datasets>=3.0
+pytest>=8.0
