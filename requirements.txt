@@ -1,0 +1,12 @@
+torch>=2.4
+transformers>=5.15,<6
+accelerate>=1.2
+bitsandbytes>=0.45
+qwen-vl-utils>=0.0.10
+numpy==2.0.2
+pandas==2.2.2
+Pillow>=10.0
+PyYAML>=6.0
+gradio>=5.0
+tqdm>=4.66
+datasets>=3.0

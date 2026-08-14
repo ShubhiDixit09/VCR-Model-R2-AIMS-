@@ -1,0 +1,12 @@
+{
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "quantization": "4-bit NF4",
+  "inference_view": "grounded",
+  "answer_selection": "constrained A/B/C/D scoring",
+  "rationale_selection": "answer-conditioned constrained scoring",
+  "joint_rule": "P(A|I,Q) * P(R|I,Q,A)",
+  "answer_temperature": 1.0,
+  "rationale_temperature": 1.0,
+  "human_intervention_during_inference": false,
+  "free_text_rationale_generation": false
+}

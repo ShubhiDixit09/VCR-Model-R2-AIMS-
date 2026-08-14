@@ -1,0 +1,9 @@
+{
+  "Q_to_A_accuracy": 60.0,
+  "QA_to_R_accuracy": 40.0,
+  "Greedy_Q_to_AR_accuracy": 15.0,
+  "Joint_Q_to_AR_accuracy": 15.0,
+  "samples": 20,
+  "answer_temperature": 1.0,
+  "rationale_temperature": 1.0
+}
